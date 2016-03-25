@@ -1,0 +1,23 @@
+2016-03-25 22:53:26,450 INFO  [TestSuiteMain] openning the website 
+2016-03-25 22:53:51,943 INFO  [TestSuiteMain] 1.0 - get - Object: googlepage Status:-Passed 
+2016-03-25 22:53:57,109 INFO  [TestSuiteMain] 2.0 - Enter - Object: searchBar Status:-Passed 
+2016-03-25 22:54:02,229 INFO  [TestSuiteMain] 3.0 - Enter - Object: searchButton Status:-Passed 
+2016-03-25 22:54:04,231 INFO  [TestSuiteMain] 4.0 - wait - Object: resultwait Status:-Passed 
+2016-03-25 22:54:09,391 INFO  [TestSuiteMain] 5.0 - click - Object: calculatorpage Status:-Passed 
+2016-03-25 22:54:11,393 INFO  [TestSuiteMain] 6.0 - wait - Object: resultwait Status:-Passed 
+2016-03-25 22:54:40,670 INFO  [TestSuiteMain] 7.0 - hover - Object: percentagecalclink Status:-Passed 
+2016-03-25 22:55:01,956 INFO  [TestSuiteMain] 8.0 - click - Object: percentagecalclink Status:-Passed 
+2016-03-25 22:55:07,160 INFO  [TestSuiteMain] 9.0 - Enter - Object: whatpercen Status:-Passed 
+2016-03-25 22:55:12,313 INFO  [TestSuiteMain] 10.0 - Enter - Object: ofanotherval Status:-Passed 
+2016-03-25 22:55:25,973 INFO  [TestSuiteMain] 11.0 - click - Object: calculatebtn Status:-Passed 
+2016-03-25 22:55:27,978 INFO  [TestSuiteMain] 12.0 - wait - Object: resultwait Status:-Passed 
+2016-03-25 22:55:33,089 INFO  [TestSuiteMain] 13.0 - verify - Object: resultverify Status:-Passed 
+2016-03-25 22:55:38,158 INFO  [TestSuiteMain] 14.0 - move - Object: mathlink Status:-Passed 
+2016-03-25 22:55:57,939 INFO  [TestSuiteMain] 15.0 - click - Object: mathlink Status:-Passed 
+2016-03-25 22:56:10,463 INFO  [TestSuiteMain] 16.0 - click - Object: volumelink Status:-Passed 
+2016-03-25 22:56:15,645 INFO  [TestSuiteMain] 17.0 - select - Object: unitselect Status:-Passed 
+2016-03-25 22:56:20,762 INFO  [TestSuiteMain] 18.0 - Enter - Object: radiusval Status:-Passed 
+2016-03-25 22:56:32,891 INFO  [TestSuiteMain] 19.0 - click - Object: radcalculate Status:-Passed 
+2016-03-25 22:56:37,985 INFO  [TestSuiteMain] 20.0 - verify - Object: verifyrad Status:-Passed 
+2016-03-25 22:56:46,713 INFO  [TestSuiteMain] 21.0 - click - Object: homebtn Status:-Passed 
+2016-03-25 22:56:51,811 INFO  [TestSuiteMain] 22.0 - isEnabled - Object: degradio Status:-Passed 

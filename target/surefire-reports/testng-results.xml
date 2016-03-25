@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="209807" started-at="2016-03-25T17:23:23Z" finished-at="2016-03-25T17:26:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="209807" started-at="2016-03-25T17:23:23Z" finished-at="2016-03-25T17:26:53Z">
+      <class name="com.sap.solman.automationFramework.TestSuiteMain">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.sap.solman.automationFramework.TestSuiteMain@5d624da6]" name="setup" is-config="true" duration-ms="2996" started-at="2016-03-25T22:53:23Z" finished-at="2016-03-25T22:53:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="main()[pri:0, instance:com.sap.solman.automationFramework.TestSuiteMain@5d624da6]" name="main" duration-ms="205575" started-at="2016-03-25T22:53:26Z" description="This the main testcase" finished-at="2016-03-25T22:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.sap.solman.automationFramework.TestSuiteMain@5d624da6]" name="teardown" is-config="true" duration-ms="1205" started-at="2016-03-25T22:56:51Z" finished-at="2016-03-25T22:56:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.sap.solman.automationFramework.TestSuiteMain -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
